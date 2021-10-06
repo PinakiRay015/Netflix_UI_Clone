@@ -18,15 +18,3 @@ for (let i = 0; i < accordian.length; i++) {
     }
   });
 }
-// © 2021 GitHub, Inc.
-// Terms
-// Privacy
-// Security
-// Status
-// Docs
-// Contact GitHub
-// Pricing
-// API
-// Training
-// Blog
-// About
