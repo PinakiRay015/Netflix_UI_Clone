@@ -1,1 +1,1 @@
-This Is My Netfix UI Clone Prokect
+This Is My Netfix UI Clone Project
